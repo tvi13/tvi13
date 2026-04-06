@@ -7,9 +7,13 @@
 
 ## Tech Stack
 Languages: Python, C++, Java, JavaScript
-Frameworks & Libraries: TensorFlow/PyTorch, Scikit-learn, NumPy/Pandas, Flask/FastAPI  
+
+Frameworks & Libraries: TensorFlow/PyTorch, Scikit-learn, NumPy/Pandas, Flask/FastAPI
+
 Web & Backend: Node.js, Express.js, REST APIs
-Databases: MongoDB, MySQL  
+
+Databases: MongoDB, MySQL
+
 Tools & Platforms: Git & GitHub, Docker (basic), Firebase, Postman  
 
 
