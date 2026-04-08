@@ -42,5 +42,5 @@ Tools & Platforms: Git & GitHub, Docker (basic), Firebase, Postman
 
 
 ## How to Reach Me
-- LinkedIn: [Tvisha Majithia](https://www.linkedin.com/in/tvisha-majithia-214659220/)
+- LinkedIn: [Tvisha Majithia](https://www.linkedin.com/in/tvisha-majithia-214b59220/)
 - Email: *reach2tvisha@gmail.com*  
